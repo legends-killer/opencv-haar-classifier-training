@@ -168,4 +168,3 @@ if __name__ == '__main__':
 		sys.exit('mergevec requires an output filename. Call mergevec.py with -o your_output_filename')
 
 	merge_vec_files(vec_directory, output_filename)
-
