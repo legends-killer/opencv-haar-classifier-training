@@ -17,6 +17,7 @@
 ./negative_images/000016.jpg
 ./negative_images/000017.jpg
 ./negative_images/000018.jpg
+./negative_images/000019.jpg
 ./negative_images/000020.jpg
 ./negative_images/000021.jpg
 ./negative_images/000022.jpg
@@ -36,6 +37,7 @@
 ./negative_images/000036.jpg
 ./negative_images/000037.jpg
 ./negative_images/000038.jpg
+./negative_images/000039.jpg
 ./negative_images/000040.jpg
 ./negative_images/000041.jpg
 ./negative_images/000042.jpg
@@ -55,6 +57,7 @@
 ./negative_images/000056.jpg
 ./negative_images/000057.jpg
 ./negative_images/000058.jpg
+./negative_images/000059.jpg
 ./negative_images/000060.jpg
 ./negative_images/000061.jpg
 ./negative_images/000062.jpg
@@ -74,6 +77,7 @@
 ./negative_images/000076.jpg
 ./negative_images/000077.jpg
 ./negative_images/000078.jpg
+./negative_images/000079.jpg
 ./negative_images/000080.jpg
 ./negative_images/000081.jpg
 ./negative_images/000082.jpg
@@ -93,10 +97,6 @@
 ./negative_images/000096.jpg
 ./negative_images/000097.jpg
 ./negative_images/000098.jpg
-./negative_images/000019.jpg
-./negative_images/000039.jpg
-./negative_images/000059.jpg
-./negative_images/000079.jpg
 ./negative_images/000099.jpg
 ./negative_images/000100.jpg
 ./negative_images/000101.jpg
